@@ -7,4 +7,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CommonTextHeader" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/textDefault</item>
+        <item name="android:textSize">@dimen/font32</item>
+    </style>
+
+    <style name="CommonTextBody" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/textDefault</item>
+        <item name="android:textSize">@dimen/font14</item>
+    </style>
+
 </resources>
