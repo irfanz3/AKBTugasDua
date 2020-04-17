@@ -6,7 +6,8 @@
     <string name="login_btn_register">Register</string>
     <string name="login_or">OR</string>
     <string name="login_facebook_connect">CONNECT WITH FACEBOOK</string>
-    <string name="login_no_account">doesn\'t have account?</string>
+    <string name="login_no_account">doesn\'t have account ? </string>
+    <string name="login_img_desc">Blood Share</string>
 
     <string name="register_txt_username">Username</string>
     <string name="register_txt_password">Password</string>
@@ -26,7 +27,7 @@
     <string name="register_combo_job">Job</string>
 
     <string name="verify_txt_header">Almost There</string>
-    <string name="verify_txt_body">Thank you for registering with us. One there<br/> step, you need to check yout email <br/> to active your account</string>
+    <string name="verify_txt_body">Thank you for registering with us. One there<br /> step, you need to check yout email <br /> to active your account</string>
     <string name="verify_btn_txt">VERIFY</string>
 
     <string name="verify_txt_header2">Verify Your Account</string>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CommonButtonBlue" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/bg_common_btn_blue</item>
+        <item name="android:textColor">@color/textDefault</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
