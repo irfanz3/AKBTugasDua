@@ -19,6 +19,7 @@
         android:contentDescription="@string/login_img_desc" />
 
     <EditText
+        android:id="@+id/username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/login_txt_username"
@@ -27,6 +28,7 @@
         android:inputType="text" />
 
     <EditText
+        android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/login_txt_password"
@@ -36,6 +38,7 @@
         android:inputType="text" />
 
     <Button
+        android:id="@+id/btn_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/login_btn_login"
@@ -51,6 +54,7 @@
         android:textStyle="bold" />
 
     <Button
+        android:id="@+id/btn_login_facebook"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/login_facebook_connect"
@@ -74,6 +78,7 @@
             android:textColor="@android:color/white"/>
 
         <TextView
+            android:id="@+id/register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/login_btn_register"

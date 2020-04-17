@@ -27,7 +27,7 @@
     <string name="register_combo_job">Job</string>
 
     <string name="verify_txt_header">Almost There</string>
-    <string name="verify_txt_body">Thank you for registering with us. One there<br /> step, you need to check yout email <br /> to active your account</string>
+    <string name="verify_txt_body">Thank you for registering with us. One there &lt;br /> step, you need to check your email &lt;br /> to active your account</string>
     <string name="verify_btn_txt">VERIFY</string>
 
     <string name="verify_txt_header2">Verify Your Account</string>
@@ -49,4 +49,26 @@
     <string name="home_txt_message_sub">5 new Messages</string>
     <string name="home_txt_history">Donor History</string>
     <string name="home_txt_history_sub">5 Gives, 2 Received</string>
+
+    <string-array name="blood_type">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="jobs">
+        <item>Job</item>
+        <item>ASN</item>
+        <item>Pedagang Swasta</item>
+        <item>Buruh Pabrik</item>
+        <item>Software Engineer</item>
+    </string-array>
 </resources>
