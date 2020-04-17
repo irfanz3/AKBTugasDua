@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="login_txt_username">Username</string>
+    <string name="login_txt_password">Password</string>
+    <string name="login_btn_login">LOGIN</string>
+    <string name="login_btn_register">Register</string>
+    <string name="login_or">OR</string>
+    <string name="login_facebook_connect">CONNECT WITH FACEBOOK</string>
+    <string name="login_no_account">doesn\'t have account?</string>
+
+    <string name="register_txt_username">Username</string>
+    <string name="register_txt_password">Password</string>
+    <string name="register_txt_re_password">Retype Password</string>
+    <string name="register_txt_email">Email</string>
+    <string name="register_txt_phone">Phone Number</string>
+    <string name="register_txt_address">Home Address</string>
+    <string name="register_txt_location">Default Location</string>
+    <string name="register_txt_term">Agree with Term and Condition</string>
+    <string name="register_btn_register">REGISTER</string>
+    <string name="register_radio_male">Male</string>
+    <string name="register_radio_female">Female</string>
+    <string name="register_radio_personal">Personal</string>
+    <string name="register_radio_organization">Organization</string>
+    <string name="register_combo_blood_type">Blood Type</string>
+    <string name="register_combo_reshus">Reshus</string>
+    <string name="register_combo_job">Job</string>
+
+    <string name="verify_txt_header">Almost There</string>
+    <string name="verify_txt_body">Thank you for registering with us. One there<br/> step, you need to check yout email <br/> to active your account</string>
+    <string name="verify_btn_txt">VERIFY</string>
+
+    <string name="verify_txt_header2">Verify Your Account</string>
+    <string name="verify_txt_body2">We have send verification code to your email</string>
+    <string name="verify_txt_input">enter verification code here…</string>
+    <string name="verify_txt_resend">doesn\'t get the code?</string>
+    <string name="verify_btn_send">SEND</string>
+    <string name="verify_btn_resend">Resend</string>
+
+    <string name="home_txt_blood_type">Blood Type :</string>
+    <string name="home_txt_blood_give">BLOOD GIVE</string>
+    <string name="home_txt_blood_received">BLOOD RECEIVED</string>
+    <string name="home_txt_thanks">THANKS</string>
+    <string name="home_txt_search_donor">Search Donor</string>
+    <string name="home_txt_search_donor_sub">Search donor near you</string>
+    <string name="home_txt_blood_needed">Blood Needed</string>
+    <string name="home_txt_blood_needed_sub">4 Users need blood</string>
+    <string name="home_txt_message">Message</string>
+    <string name="home_txt_message_sub">5 new Messages</string>
+    <string name="home_txt_history">Donor History</string>
+    <string name="home_txt_history_sub">5 Gives, 2 Received</string>
+</resources>
