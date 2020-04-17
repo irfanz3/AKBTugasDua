@@ -17,4 +17,37 @@
         <item name="android:textSize">@dimen/font14</item>
     </style>
 
+    <style name="HeaderText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/lightBlue</item>
+        <item name="android:textSize">@dimen/font24</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="SubHeaderText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/font20</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="HeaderIcon" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/font20</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="BodyIcon" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/fontDesc</item>
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="SubHeader2Text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/fontDesc</item>
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
 </resources>
