@@ -15,7 +15,7 @@ import butterknife.OnClick;
 /**
  * Created on Fri Apr 17 2020
  *
- * Made with ❤ Irfan Zaelani
+ * Made with ❤ By Irfan Zaelani
  * 10117911
  * IF-6K
  *
