@@ -9,7 +9,7 @@
 
     <style name="CommonTextHeader" parent="TextAppearance.AppCompat">
         <item name="android:textColor">@color/textDefault</item>
-        <item name="android:textSize">@dimen/font32</item>
+        <item name="android:textSize">@dimen/font36</item>
     </style>
 
     <style name="CommonTextBody" parent="TextAppearance.AppCompat">
