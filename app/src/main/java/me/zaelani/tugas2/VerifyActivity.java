@@ -11,6 +11,15 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+
+/**
+ * Created on Fri Apr 17 2020
+ *
+ * Made with ❤ Irfan Zaelani
+ * 10117911
+ * IF-6K
+ *
+ */
 public class VerifyActivity extends AppCompatActivity {
 
     @BindView(R.id.verification_code)
